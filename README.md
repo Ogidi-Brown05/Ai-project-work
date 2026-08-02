@@ -98,7 +98,7 @@ tuning or class-weighted loss) before any real-world use.
 
 | Name | Index Number | GitHub Repository |
 |---|---|---|
-| [Name 1] | [Index Number] | [Link] |
+| [Gideon Owusu Mensah] | [UEB3515523] | [https://github.com/Ogidi-Brown05/Ai-project-work] |
 | [Name 2] | [Index Number] | [Link] |
 | [Name 3] | [Index Number] | [Link] |
 
