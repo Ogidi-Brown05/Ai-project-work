@@ -86,21 +86,12 @@ screening context, false negatives are more costly than false positives,
 so this is an important limitation to account for (e.g. via threshold
 tuning or class-weighted loss) before any real-world use.
 
-## Limitations
-
-- Trained from scratch on a relatively small dataset (10,000 images) —
-  transfer learning (e.g. ResNet) would likely improve performance further.
-- Only 15 epochs; more epochs with early stopping could yield gains.
-- **Not validated for and not intended for real clinical/medical use** —
-  built strictly for educational/coursework purposes.
-
 ## Group Members
-
 | Name | Index Number | GitHub Repository |
 |---|---|---|
 | [Gideon Owusu Mensah] | [UEB3515523] | [https://github.com/Ogidi-Brown05/Ai-project-work] |
-| [Name 2] | [Index Number] | [Link] |
-| [Name 3] | [Index Number] | [Link] |
+| [Nii-Noi Frank] | [UEB3516223] | [https://github.com/Frank-Cyrus/scaling-journey] |
+| [Obeng Mabel Fosuwaa] | [UEB3517523] | [https://github.com/mabelfosuwaa-byte/my-ai-project] |
 
 ## Course
 Artificial Intelligence (Machine Learning Project) — University of Energy
